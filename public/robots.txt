@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://refat17.github.io/sitemap-index.xml

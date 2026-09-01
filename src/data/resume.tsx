@@ -91,7 +91,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://linkedin.com/in/refat17",
+        url: "https://www.linkedin.com/in/md-refat-rahman-43839821a",
         icon: Icons.linkedin,
         navbar: true,
       },
@@ -103,7 +103,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "mailto:refatrahman.dev@gmail.com",
+        url: "mailto:refatrahman17@gmail.com",
         icon: Icons.email,
         navbar: true,
       },

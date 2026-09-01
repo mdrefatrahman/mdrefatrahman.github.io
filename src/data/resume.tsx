@@ -19,8 +19,8 @@ export const DATA = {
     "Full-Stack Developer and MSc Computer Science student in Cambridge, UK. Specializing in scalable web applications, backend engineering, REST APIs, and AI/ML solutions.",
   summary:
     "I'm a Computer Science graduate and Full-Stack Developer currently pursuing an MSc in Computer Science at Anglia Ruskin University, Cambridge, UK. I enjoy designing and building scalable web applications, backend systems, REST APIs, data-driven applications, and intelligent software solutions. My experience spans modern web development, databases, cloud/deployment workflows, and machine learning.",
-  avatarUrl: "/me.jpg",
-  ogImage: "/og_image.png",
+  avatarUrl: "/me.webp",
+  ogImage: "/og_image.webp",
   sections: {
     about: { order: 1, enabled: true, heading: "About" },
     work: { order: 2, enabled: true, heading: "Work Experience", presentLabel: "Present" },

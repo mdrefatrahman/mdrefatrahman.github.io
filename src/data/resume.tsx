@@ -12,7 +12,7 @@ import { Astro } from "@/components/ui/svgs/astro";
 export const DATA = {
   name: "MD Refat Rahman",
   initials: "RR",
-  url: "https://github.com/refat17",
+  url: "https://github.com/mdrefatrahman",
   location: "Cambridge, UK",
   locationLink: "https://www.google.com/maps/place/Cambridge,+UK",
   description:
@@ -85,13 +85,13 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/refat17",
+        url: "https://github.com/mdrefatrahman",
         icon: Icons.github,
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/md-refat-rahman-43839821a",
+        url: "https://www.linkedin.com/in/mdrefatrahman",
         icon: Icons.linkedin,
         navbar: true,
       },
